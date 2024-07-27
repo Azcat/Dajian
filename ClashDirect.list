@@ -1,0 +1,38 @@
+# 内容：国外直连列表
+# 更新：2024-07-24 11:02:56
+# 数量：367条
+
+# AP News
+DOMAIN-SUFFIX,apnews.com
+DOMAIN-KEYWORD,apnews
+
+# Radio
+DOMAIN-SUFFIX,live.streamtheworld.com
+DOMAIN-SUFFIX,publicradio.org
+DOMAIN-KEYWORD,publicradio
+DOMAIN-SUFFIX,radiobookmark.com
+DOMAIN-KEYWORD,radiobookmark
+
+#Hotel
+DOMAIN-SUFFIX,ihg.com
+DOMAIN-SUFFIX,ihg.siteintercept.qualtrics.com
+DOMAIN-SUFFIX,znd0y3ntzchbfavjd-ihg.siteintercept.qualtrics.com
+DOMAIN-KEYWORD,ihgsixcontinentshote
+DOMAIN-KEYWORD,ihg
+DOMAIN-SUFFIX,marriott.com
+DOMAIN-SUFFIX,marriottinternationa.tt.omtrdc.net
+DOMAIN-KEYWORD,marriottinternationa
+DOMAIN-KEYWORD,marriott
+DOMAIN-SUFFIX,hyatt.com
+DOMAIN-SUFFIX,hilton.com
+DOMAIN-SUFFIX,hiltonapi.com
+DOMAIN-KEYWORD,hilton
+DOMAIN-SUFFIX,accor.com
+DOMAIN-KEYWORD,accor
+DOMAIN-SUFFIX,wyndhamhotels.com
+DOMAIN-KEYWORD,wyndhamhotels
+
+#Dating
+DOMAIN-SUFFIX,scruffapp.com
+
+
